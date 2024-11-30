@@ -1,5 +1,11 @@
 # React + Vite
 
+bootstrap card exercise 
+
+I refered below web page/tutorial/documentation
+
+- https://react-bootstrap.netlify.app/docs/components/cards/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
